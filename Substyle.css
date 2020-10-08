@@ -1,0 +1,14 @@
+
+
+body{
+  background:url("bigl.jpg") no-repeat center fixed;
+  background-size:cover;
+  color: orange;
+}
+h1 {
+  text-shadow: 1px 1px white;
+}
+
+div{
+  padding-right: 700px;
+}
