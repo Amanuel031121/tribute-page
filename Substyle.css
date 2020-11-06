@@ -1,14 +1,15 @@
-
-
 body{
   background:url("bigl.jpg") no-repeat center fixed;
   background-size:cover;
   color: orange;
+  /*Det här gör så att bakgrundbilden hamnar runt hela*/
 }
 h1 {
   text-shadow: 1px 1px white;
+/*gör så allt under h1 blir den färgen och storleken*/
 }
 
-div{
+.firstdiv{
   padding-right: 700px;
+/*Kopplar den här till firstdiv och gör så texten hanar på vänstrasidan*/
 }
